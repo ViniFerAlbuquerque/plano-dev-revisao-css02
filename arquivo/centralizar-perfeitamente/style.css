@@ -1,0 +1,29 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+body {
+    background-image: linear-gradient(to top, rgb(248, 156, 113), rgb(192, 198, 245));
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 29px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: rgb(242, 243, 248); */
+    background-attachment: fixed;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    background-color: rgb(161, 99, 49);
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
